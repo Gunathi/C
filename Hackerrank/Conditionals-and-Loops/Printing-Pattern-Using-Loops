@@ -1,0 +1,40 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() 
+{
+
+    int n,i,j,min,min1,min2;
+    scanf("%d", &n);
+    
+    int len = 2*n-1;
+    for(i = 1; i <= len; i++){
+        for(j = 1; j <= len; j++){
+            if(i <= len-i){
+                 min1 = i - 1;
+            }else {
+                min1 = len - i;
+            }
+            
+            if(j <= len-j){
+                min2 = j - 1;
+            }else {
+                min2 = len - j;
+            }
+            
+            if(min1 <= min2){
+                min = min1;
+            }else {
+                min = min2;
+            }
+            
+            printf("%d ",n-min);
+            
+        }
+        printf("\n");
+    }
+  	// Complete the code to print the pattern.
+    return 0;
+}

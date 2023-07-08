@@ -39,4 +39,8 @@ Multi-file-programming
       In this type of programs we can use a code in another file in our code using *#include "file-name.c". 
 
             
-      
+Sum-of-digits-Recursion
+
+      In this program I have Recurion method to get the sum of digits in a integer.
+
+      Ex:-  input :- 1234            output:- 10

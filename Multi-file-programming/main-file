@@ -1,5 +1,6 @@
 #include "c1.c"
 #include<stdio.h>
+#define SIZE 1000
 
 void main(){
 

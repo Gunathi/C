@@ -15,3 +15,13 @@ Smallest_char
                   smallest characters - dab (d from Dog)
                                             (a from Cat)
                                             (b from bird)
+
+
+Remove-all-occurrences-of -a-specific-character
+
+      In this program, It removes all occurrences of a special character you entered.
+
+            Ex1:- 
+                  inputs :- I love Programming
+                            o
+                  output :- I lve Prgramming.

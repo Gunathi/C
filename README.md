@@ -34,4 +34,9 @@ Reverse-String
                   input :- hansani            output:- inasnah
 
 
+Multi-file-programming
+
+      In this type of programs we can use a code in another file in our code using *#include "file-name.c". 
+
+            
       

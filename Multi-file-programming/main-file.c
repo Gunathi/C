@@ -1,4 +1,4 @@
-#include "c1.c"
+#include "first-file.c"
 #include<stdio.h>
 #define SIZE 1000
 

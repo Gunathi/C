@@ -1,0 +1,14 @@
+#include "c1.c"
+#include<stdio.h>
+
+void main(){
+
+    char str[SIZE];
+
+    scanf("%[^\n]",str);
+    int l = strlen(str);
+
+    int s=sum(str,l);
+
+    printf("%d",s);
+}

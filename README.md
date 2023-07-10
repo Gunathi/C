@@ -44,3 +44,8 @@ Sum-of-digits-Recursion
       In this program I have Recurion method to get the sum of digits in a integer.
 
       Ex:-  input :- 1234            output:- 10
+
+
+External-Variable
+
+      In this file, I have created simple programs using external variables. From these codes you can get an idea about how external variables declare, access and initialize.

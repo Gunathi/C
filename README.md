@@ -63,7 +63,7 @@ Functions -
            1   5  10  10   5   1
 
 
-- Binary To Decimal Converter Using Recursion
+- Binary To Decimal Converter Using Recursion 
 
       output:-
                  Enter the binary number: 10110111

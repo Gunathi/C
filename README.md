@@ -51,7 +51,7 @@ External-Variable
       In this file, I have created simple programs using external variables. From these codes you can get an idea about how external variables declare, access and initialize.
 
 
-Functions
+Functions - 
       Pascal Triangle
 
       Enter n: 5

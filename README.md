@@ -61,3 +61,10 @@ Functions -
                1   3   3   1
              1   4   6   4   1
            1   5  10  10   5   1
+
+
+- Binary To Decimal Converter Using Recursion
+
+      output:-
+                 Enter the binary number: 10110111
+                 The decimal number is 183

@@ -49,3 +49,15 @@ Sum-of-digits-Recursion
 External-Variable
 
       In this file, I have created simple programs using external variables. From these codes you can get an idea about how external variables declare, access and initialize.
+
+
+Functions
+      Pascal Triangle
+
+      Enter n: 5
+                     1
+                   1   1
+                 1   2   1
+               1   3   3   1
+             1   4   6   4   1
+           1   5  10  10   5   1
